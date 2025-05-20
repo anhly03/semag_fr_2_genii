@@ -3,8 +3,5 @@ One is cao to đen hôi, hám, hay địt và thích vạch quần.
 One is đáng yêu, xinh đẹp, dễ huông.
 ====================
 A
-B
-A
->>>>>>> 24a82adccb62f6e9f185763699fa31fcf958d0a9
-B
+
 ====================
